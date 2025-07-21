@@ -1,0 +1,18 @@
+div {
+   margin-bottom: 20px;
+  padding: 20px;
+  border: 2px solid #444;
+  font-size: 24px;
+  transition: background-color 0.3s ease-in-out;
+}body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  margin-left: 25px;
+  padding: 10px 20px;
+  font-size: 17px;
+  cursor: pointer;
+}
